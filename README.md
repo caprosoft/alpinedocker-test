@@ -1,4 +1,4 @@
-`apktool -version : 2.9.0` `openjdk8-jre `
+`apktool version: 2.9.0` `java version: openjdk8-jre `
 
 # Apktool Docker
 
