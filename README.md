@@ -11,3 +11,9 @@ sudo docker build -t apktool-docker .
 ``` sh
 sudo docker run -it apktool-docker
 ```
+
+## Avvio Apktool
+``` sh
+apktool
+```
+
