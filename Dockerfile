@@ -12,3 +12,5 @@ COPY apktool.jar /usr/local/bin
 RUN cd /usr/local/bin && chmod +x apktool
 RUN cd /usr/local/bin && chmod +x apktool.jar
 
+#eseguo apktool ad ogni avvio del container
+CMD ["apktool"]
