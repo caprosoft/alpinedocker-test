@@ -2,7 +2,11 @@
 
 # Apktool Docker
 
-Immagine Docker basata su [Alpine](https://hub.docker.com/_/alpine), per l'utilizzo del tool di reverse engineering [Apktool](https://github.com/iBotPeaches/Apktool)
+Immagine Docker basata su [Alpine](https://hub.docker.com/_/alpine), per l'utilizzo del tool di reverse engineering di apk Android [Apktool](https://github.com/iBotPeaches/Apktool).
+
+##Requisiti
+
+Aver installato `docker` e `docker-buildx`.
 
 ## Creazione immagine
 ``` sh
